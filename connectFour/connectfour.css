@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(54, 54, 54); }
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 3px 3px 5px red; }
+
+table {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    user-select: none; }
+
+td {
+    padding: 0;
+    width: 50px;
+    height: 50px; }
+
+img {
+    display: block;
+    pointer-events: none; }
+
+img#highlight {
+    position: absolute;
+    visibility: hidden; }
+
+p {
+    text-align: center;
+    font-size: 40px; }
